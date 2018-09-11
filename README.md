@@ -10,9 +10,15 @@
  
 **a. What voltage level do you need to power your display?**
 
+I need 5V to power the display
+
 **b. What voltage level do you need to power the display backlight?**
+
+I also need 5V for the backlight
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
+
+I tried to connect the GND to the ground and instead connected the pin next to it to the ground. I fixed simply by noticing something's doesn't seem right and changing it. 
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
  
