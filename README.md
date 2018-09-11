@@ -66,4 +66,6 @@ void loop() {
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+![Timer](Timer.MOV)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
